@@ -13,6 +13,5 @@ I also wanted to play with React.
 What's it made of?
 ---
 React on the front-end and Node.js 
-
 ---
 With Christine Cha. 
